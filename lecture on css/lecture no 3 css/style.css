@@ -1,0 +1,21 @@
+h1{
+    border:  inset 20px black;
+}
+h2{
+    border: 2px solid brown;
+}
+h3{
+    border: 20px blueviolet double;
+}
+h4{
+    border: 20px  aqua outset;   
+}
+h5{
+    border: 2px blue dashed;
+}
+h6{
+    border: 20px red groove;
+}
+p{
+    border: 20px teal ridge;
+}
