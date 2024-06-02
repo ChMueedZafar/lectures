@@ -1,0 +1,40 @@
+p{
+    color: red;
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+div{
+    border: 2px solid black;
+    /* text-align: justify; */
+    width: 200px;
+    /* height: 250px; */
+text-align-last: right;
+
+}
+
+.para{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+img{
+    vertical-align: baseline;
+  }
+  
+  img.b {
+    vertical-align: text-top;
+  }
+  
+  img.c {
+    vertical-align: text-bottom;
+  }
+  
+  img.d {
+    vertical-align: sub;
+  }
+  
+  img.e {
+    vertical-align: super;
+  }
