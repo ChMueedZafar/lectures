@@ -1,0 +1,12 @@
+h1{
+    text-decoration: underline;
+    text-decoration-color: blue;
+
+}
+h2{
+    text-decoration: overline;
+    text-decoration-style:double ;
+}
+p{
+    text-decoration: overline underline;
+}
