@@ -1,0 +1,32 @@
+p{
+    text-transform: capitalize;
+    text-indent: 100px;
+    letter-spacing: 5px;
+    line-height: 1.8;
+}
+h1{
+    word-spacing: 10px;
+}
+h2{
+    word-spacing: -1px;
+}
+.p1{
+    white-space: nowrap;
+}
+.h1{
+    text-shadow: 2px 2px red;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-style: italic;
+}
+h4{
+    font-variant: small-caps;
+}
+div{
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    /* text-shadow: 50px 50px 5px green; */
+}
